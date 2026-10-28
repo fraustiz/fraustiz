@@ -16,12 +16,12 @@
 
 ---
 
-### ⚡ À propos
+### ⚡ About Me
 
-- 🦀 **Rust & Systèmes :** Binaires ultra-légers sans runtime, rétro-ingénierie de protocoles HID propriétaires et outils natifs en Immediate Mode GUI (`egui`).
-- 🌐 **Web & Écosystème TS :** Applications modernes et véloces en TypeScript, React, Next.js et Tauri 2.
-- 🎨 **UI/UX & Client Modding :** Customisation d'interfaces et design soigné (thèmes Spicetify Apple Music, clients Discord, barres Windows).
-- 🐧 **Infra & DevOps :** Auto-hébergement, VPS ARM64 (Linux), conteneurs Docker, orchestrateurs et workflows d'agents IA autonomes.
+- 🦀 **Rust & Systems:** Building lightweight, zero-runtime standalone binaries, reverse-engineering proprietary HID protocols, and crafting native Immediate Mode GUIs (`egui`).
+- 🌐 **Web & TS Ecosystem:** Designing modern, performant web and desktop applications using TypeScript, React, Next.js, and Tauri 2.
+- 🎨 **UI/UX & Client Modding:** Customizing interfaces with polished aesthetic design (Apple Music-inspired Spicetify theme, Discord enhancements, Windows notch bar).
+- 🐧 **Infra & DevOps:** Self-hosting, ARM64 Linux VPS, Docker containers, reverse proxies, and autonomous AI agent workflows.
 
 ---
 
@@ -35,19 +35,19 @@
 
 ---
 
-### 🚀 Projets phares
+### 🚀 Featured Projects
 
-| Projet | Stack | Description |
+| Project | Stack | Description |
 |---|---|---|
-| **[`steam-controller-battery`](https://github.com/fraustiz/steam-controller-battery)** | `Rust` `HID` `Win32` | Binaire autonome de 245 Ko affichant la batterie de la Steam Controller dans le tray. Protocole HID reverse-engineeré sans spec officielle. |
-| **[`lowfreed`](https://github.com/fraustiz/lowfreed)** | `Rust` `egui` `VIA` | Configurateur natif desktop pour le clavier **Lofree Flow 2** (keymap 6 couches, macros, gestion slider sous macOS/Windows). |
-| **[`freejazz`](https://github.com/fraustiz/freejazz)** | `Rust` `egui` `Glow` | Alternative native 100 % Rust au configurateur chinois WebHID du clavier magnétique **Ajazz AK980 Max**. |
-| **[`L4-Windows-NotchBar`](https://github.com/fraustiz/L4-Windows-NotchBar)** | `Tauri 2` `Rust` `React` | Dynamic Notch fluide pour Windows avec animations soignées et intégration Windows Hello. |
-| **[`LiquidMusic`](https://github.com/fraustiz/LiquidMusic)** | `CSS` `Spicetify` | Thème Spotify inspiré de l'esthétique Apple Music / iOS : lecteur flottant et verre dépoli (*frosted glass*). |
+| **[`steam-controller-battery`](https://github.com/fraustiz/steam-controller-battery)** | `Rust` `HID` `Win32` | A 245 KB standalone Windows tray utility displaying the Steam Controller battery level. Undocumented HID protocol established by hardware probing. |
+| **[`lowfreed`](https://github.com/fraustiz/lowfreed)** | `Rust` `egui` `VIA` | Native desktop configurator for the **Lofree Flow 2** keyboard over VIA v12 protocol (6-layer keymaps, macros, backlight, macOS/Windows slider override). |
+| **[`freejazz`](https://github.com/fraustiz/freejazz)** | `Rust` `egui` `Glow` | Native 100% Rust / egui alternative to the web configurator for the **Ajazz AK980 Max** magnetic switch keyboard. |
+| **[`L4-Windows-NotchBar`](https://github.com/fraustiz/L4-Windows-NotchBar)** | `Tauri 2` `Rust` `React` | A sleek Dynamic Notch for Windows featuring fluid animations, modular utilities, and Windows Hello integration. |
+| **[`LiquidMusic`](https://github.com/fraustiz/LiquidMusic)** | `CSS` `Spicetify` | Spicetify theme inspired by Apple Music & iOS: frosted glass aesthetics, a floating player, and artwork-reactive accent colors. |
 
 ---
 
-### 📊 Activité GitHub
+### 📊 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fraustiz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
