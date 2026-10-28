@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Fraustiz;Fullstack+Dev+%26+Rust+Enthusiast;Hardware+Hacking+%26+Reverse-Engineering;Desktop+Apps+%26+Self-Hosting" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Fraustiz;Fullstack+Dev+%26+Rust+Enthusiast;Hardware+%26+Reverse-Engineering;Desktop+Apps+%26+Self-Hosting" alt="Typing SVG" />
 
   <p align="center">
     <b>Crafting native desktop tools, reverse-engineering hardware protocols & building fast full-stack experiences.</b>
